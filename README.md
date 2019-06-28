@@ -1,4 +1,4 @@
-# KafkaPlayfield
+# KafkaPlayground
 
 See https://kafka.apache.org/quickstart
 
